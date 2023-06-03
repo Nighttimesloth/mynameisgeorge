@@ -7,5 +7,4 @@
 - [Commands]()
 - [Setup]()
 - [Building executable]()
-- [Autonomic features]()
-- [Commands manual]()
+- [Autonomic features](https://github.com/mategol/PySilon-malware/wiki/Autonomic-Features)
