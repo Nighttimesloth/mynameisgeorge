@@ -1,8 +1,6 @@
-# Preparation
-
 This malware is designed for Windows and because of some pip packages are available only on Windows (might be changed in future for Linux support), I'm afraid that you can't compile it on Linux (at least with compiler.py)
 
-## Automated, GUI way
+# Automated, GUI way
 
 ```shell
     git clone https://github.com/mategol/pysilon-malware
@@ -13,7 +11,7 @@ This malware is designed for Windows and because of some pip packages are availa
 
 ---------------------
 
-## Manual way (obsolete)
+# Manual way (obsolete)
 
 ```shell
     git clone https://github.com/mategol/pysilon-malware
