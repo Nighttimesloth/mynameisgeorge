@@ -1,1 +1,1 @@
-# Here are some frequently asked questions
+Will be updated soon
