@@ -30,49 +30,57 @@ grab for example saved passwords in web browsers
 
 ## .clear 
 
-clear messages from file-related channel
+clear messages from file-related channel  
+(command only available on file-related channel)
 
 ![img](https://user-images.githubusercontent.com/44233157/203398296-c73b79e8-9f70-45ec-9607-586cd54767a6.png)
 
 ## .pwd 
 
-show working directory
+show working directory  
+(command only available on file-related channel)
 
 ![img](https://user-images.githubusercontent.com/44233157/204939055-3bc4da31-b72e-4eea-a153-7b5d712e40ff.png)
 
 ## .tree 
 
-show tree of working directory
+show tree of working directory  
+(command only available on file-related channel)
 
 ![img](https://user-images.githubusercontent.com/44233157/204939884-a44fb244-f837-4018-b64e-a12ebde2bbcb.jpg)
 
 ## .ls 
 
-list content of working directory
+list content of working directory  
+(command only available on file-related channel)
 
 ![img](https://user-images.githubusercontent.com/44233157/204940025-5d1f145f-ebf3-463c-b5f0-48099897fbda.png)
 
 ## .download [file-or-dir] 
 
-download any file or zipped directory (also greater than 8MB ones) from target PC
+download any file or zipped directory (also greater than 8MB ones) from target PC  
+(command only available on file-related channel)
 
 ![img](https://user-images.githubusercontent.com/44233157/204940123-454bd16b-bcfd-460f-98bd-0455e0fae984.png)
 
 ## .upload [type] [name] 
 
-upload any file or zipped directory (also greater than 8MB ones) onto target PC
+upload any file or zipped directory (also greater than 8MB ones) onto target PC  
+(command only available on file-related channel)
 
 ![img](https://user-images.githubusercontent.com/44233157/204941488-ba19a2b7-98aa-42fb-a70f-fd26fb93c2dc.jpg)
 
 ## .execute [file] 
 
-run any file on target PC
+run any file on target PC  
+(command only available on file-related channel)
 
 ![img](https://user-images.githubusercontent.com/44233157/204941945-33ddcf04-9825-400b-8111-8c1540c0208a.jpg)
 
 ## .remove [file-or-dir] 
 
-remove file or directory on target PC
+remove file or directory on target PC  
+(command only available on file-related channel)
 
 ![img](https://user-images.githubusercontent.com/44233157/204947262-7aca6073-2f2e-4af8-b96b-171a52738da0.png)
 
@@ -84,10 +92,10 @@ remove PySilon from target PC and clean the "evidence"
 
 ## .cd [dir] 
 
-change working directory
+change working directory  
+(command only available on file-related channel)
 
 ## .update 
 
 update PySilon remotely
 
- command available on file-related channel only
