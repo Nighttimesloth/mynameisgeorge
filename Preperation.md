@@ -3,6 +3,8 @@ This malware is designed for Windows and because of some pip packages are availa
 # Automated, GUI way
 
 Download python if you don't have it already from [here](https://www.python.org/downloads/)
+![image](https://github.com/mategol/PySilon-malware/assets/85312115/62aa88ad-190f-4099-8893-f4c83aabe915)
+Make sure to check the checkbox saying add Python to PATH
 
 ```shell
     git clone https://github.com/mategol/pysilon-malware
@@ -16,6 +18,8 @@ Download python if you don't have it already from [here](https://www.python.org/
 # Manual way (obsolete)
 
 Download python if you don't have it already from [here](https://www.python.org/downloads/)
+![image](https://github.com/mategol/PySilon-malware/assets/85312115/62aa88ad-190f-4099-8893-f4c83aabe915)
+Make sure to check the checkbox saying add Python to PATH
 
 ```shell
     git clone https://github.com/mategol/pysilon-malware
