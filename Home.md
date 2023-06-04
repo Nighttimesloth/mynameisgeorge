@@ -8,3 +8,4 @@
 - [Setup](https://github.com/mategol/PySilon-malware/wiki/Setup)
 - [Building executable](https://github.com/mategol/PySilon-malware/wiki/Building-executable)
 - [Autonomic features](https://github.com/mategol/PySilon-malware/wiki/Autonomic-Features)
+- [FAQ](https://github.com/mategol/PySilon-malware/wiki/FAQ)
