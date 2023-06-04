@@ -2,6 +2,8 @@ This malware is designed for Windows and because of some pip packages are availa
 
 # Automated, GUI way
 
+Download python if you don't have it already from [here](https://www.python.org/downloads/)
+
 ```shell
     git clone https://github.com/mategol/pysilon-malware
 ```
@@ -12,6 +14,8 @@ This malware is designed for Windows and because of some pip packages are availa
 ---------------------
 
 # Manual way (obsolete)
+
+Download python if you don't have it already from [here](https://www.python.org/downloads/)
 
 ```shell
     git clone https://github.com/mategol/pysilon-malware
