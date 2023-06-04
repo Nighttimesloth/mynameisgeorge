@@ -12,3 +12,5 @@ Make sure to check the checkbox saying add Python to PATH
 
 - [Create Discord BOT and server](https://github.com/mategol/PySilon-malware/wiki/Setup#creating-a-discord-server-for-controlling-the-malware)  
 - Run the PySilon.bat either using CMD or double clicking on it
+
+Now follow on with [building the malware](https://github.com/mategol/PySilon-malware/wiki/Building-executable)
