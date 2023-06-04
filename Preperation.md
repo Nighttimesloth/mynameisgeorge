@@ -17,7 +17,7 @@ This malware is designed for Windows and because of some pip packages are availa
     git clone https://github.com/mategol/pysilon-malware
 ```  
 
-- [Create Discord BOT and server](https://github.com/mategol/pysilon-malware#setup)
+- [Create Discord BOT and server](https://github.com/mategol/PySilon-malware/wiki/Setup#creating-a-discord-server-for-controlling-the-malware)
 - [Create Virtual Environment (important) - tutorial below](https://github.com/mategol/PySilon-malware/blob/main/resources/resobuilding_executable_obsolete.md#building-standalone-executable")  
 - [Install all requirements](https://github.com/mategol/PySilon-malware/blob/main/resources/resobuilding_executable_obsolete.md#building-standalone-executable)  
 - Run compiler_obsolete.py
