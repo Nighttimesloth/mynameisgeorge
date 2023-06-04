@@ -90,6 +90,15 @@ remove PySilon from target PC and clean the "evidence"
 
 ![img](https://user-images.githubusercontent.com/44233157/204947559-2960d3a6-d259-4592-8b32-7e5193c4cae7.jpg)
 
+## .webcam photo
+
+make a photo of the victim's webcam and send it to the channel
+
+## .cmd [command]
+
+execute a command on the victim's pc
+(command only available on file-related channel)
+
 ## .cd [dir] 
 
 change working directory  
