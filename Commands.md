@@ -12,6 +12,10 @@ join voice-channel and stream live microphone input
 
 ## .show [what-to-show] 
 
+Options are:
+
+- processes
+
 get list of running processes or available commands
 
 ![img](https://user-images.githubusercontent.com/44233157/203438468-43aed4e3-8d21-41a9-87a0-3630b58979b8.jpg)
@@ -23,6 +27,14 @@ kill any running process
 ![img](https://user-images.githubusercontent.com/44233157/203439640-f7754516-be78-4e06-81f8-b22f08eeebd1.jpg)
 
 ## .grab [what-to-grab] 
+
+Options are:
+
+- passwords
+- history
+- cookies
+- wifi
+- discord
 
 grab for example saved passwords in web browsers
 
@@ -64,6 +76,11 @@ download any file or zipped directory (also greater than 8MB ones) from target P
 ![img](https://user-images.githubusercontent.com/44233157/204940123-454bd16b-bcfd-460f-98bd-0455e0fae984.png)
 
 ## .upload [type] [name] 
+
+Options for type are:
+
+- single
+- multiple
 
 upload any file or zipped directory (also greater than 8MB ones) onto target PC  
 (command only available on file-related channel)
