@@ -82,6 +82,10 @@ Options for type are:
 - single
 - multiple
 
+Options for type multiple is name:
+
+- name of the file which is uploaded on the victims pc (uses our splitter)
+
 upload any file or zipped directory (also greater than 8MB ones) onto target PC  
 (command only available on file-related channel)
 
