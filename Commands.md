@@ -125,7 +125,7 @@ execute a command on the victim's pc
 change working directory  
 (command only available on file-related channel)
 
-## .update 
+## .update (not implemented yet)
 
 update PySilon remotely
 
