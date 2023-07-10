@@ -113,7 +113,16 @@ remove PySilon from target PC and clean the "evidence"
 
 ## .webcam photo
 
-make a photo of the victim's webcam and send it to the channel
+capture a photo of the victim's webcam and send it to the channel
+
+## .screenrec
+
+record the victim's screen for 15 seconds and send it to the channel.
+
+## .block-input / .unblock-input
+
+block / unblock keyboard and mouse inputs
+(works in all cases except ctrl + alt + del)
 
 ## .cmd [command]
 
