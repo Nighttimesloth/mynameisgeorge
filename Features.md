@@ -15,4 +15,5 @@
 - browse and kill running processes
 - execute files
 - run CMD commands
+- block keyboard & mouse inputs
 - update itself (pending..)
