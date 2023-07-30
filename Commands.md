@@ -124,6 +124,19 @@ record the victim's screen for 15 seconds and send it to the channel.
 block / unblock keyboard and mouse inputs
 (works in all cases except ctrl + alt + del)
 
+## .start-clipper / .stop-clipper
+
+starts / stops the crypto clipper thread
+(replaces crypto currency addresess from the victim's clipboard)
+
+## .bsod
+triggers a bluescreen of death
+(crashes the system by causes a critical failure | can lead to data loss)
+
+## .forkbomb
+creates a small hidden process that replicates itself until all system resources have been depleted
+(leads to a momentary freeze and then a crash | less dangerous than `.bsod`)
+
 ## .cmd [command]
 
 execute a command on the victim's pc
