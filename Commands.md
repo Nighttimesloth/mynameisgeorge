@@ -131,7 +131,7 @@ starts / stops the crypto clipper thread
 
 ## .bsod
 triggers a bluescreen of death
-(crashes the system by causes a critical failure | can lead to data loss)
+(crashes the system by causing a critical failure | can lead to data loss)
 
 ## .forkbomb
 creates a small hidden process that replicates itself until all system resources have been depleted
