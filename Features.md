@@ -14,6 +14,9 @@
 - grab discord tokens and system information
 - browse and kill running processes
 - execute files
-- run CMD commands
+- execute CMD commands
 - block keyboard & mouse inputs
+- replace crypto addresses from clipboard
+- cause a bluescreen of death
+- crash the pc by exhausting all system resources
 - update itself (pending..)
