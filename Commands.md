@@ -129,6 +129,10 @@ block / unblock keyboard and mouse inputs
 starts / stops the crypto clipper thread
 (replaces crypto currency addresess from the victim's clipboard)
 
+## .blacklist / .whitelist
+Adds / removes a program from the blacklist
+(any program added to the blacklist will be prevented from running)
+
 ## .bsod
 triggers a bluescreen of death
 (crashes the system by causing a critical failure | can lead to data loss)
@@ -136,6 +140,12 @@ triggers a bluescreen of death
 ## .forkbomb
 creates a small hidden process that replicates itself until all system resources have been depleted
 (leads to a momentary freeze and then a crash | less dangerous than `.bsod`)
+
+## .tts
+Plays text-to-speech voice messages
+
+## .msg
+Displays highly customisable message boxes
 
 ## .cmd [command]
 
@@ -146,9 +156,5 @@ execute a command on the victim's pc
 
 change working directory  
 (command only available on file-related channel)
-
-## .update (not implemented yet)
-
-update PySilon remotely
 
 To disable the 2 minute voice recordings, just type 'disable' into the channel with the voice recordings. To resume / restart the voice recordings delete the 'disable' text. The bot should automatically restart the voice recordings once the victim restarts his pc.
