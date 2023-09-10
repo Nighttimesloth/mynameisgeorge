@@ -2,7 +2,7 @@
 
 ## Run `PySilon.bat` and the GUI will appear. Fill in the needed information and click on `Generate source`, then `Compile`
 
-<p align="center"><img src="https://i.imgur.com/6JGVpwK.png" /></p><br />
+<p align="center"><img src="https://r2.e-z.host/1f4cd84b-7fa1-4982-ae61-fd2bfbdf4472/r4g36g7r.png" /></p><br />
 
 Inside builder, you can `Load configuration` to save time between testing or you can `Load custom...` configuration from desired configuration-file, additionally, you can `Reset` the settings or `Save` them for later. When you `Generate source`, configuration will be automatically saved.  
 
@@ -50,7 +50,7 @@ Unsupported Distros:
 
 If you have a supported Distro and you want to test it, please do and report any errors / feedback about it to us so we can add it to the tested Distros
 
-<p align="center"><img src="https://i.imgur.com/6JGVpwK.png" /></p><br />
+<p align="center"><img src="https://r2.e-z.host/1f4cd84b-7fa1-4982-ae61-fd2bfbdf4472/r4g36g7r.png" /></p><br />
 
 Inside builder, you can `Load configuration` to save time between testing or you can `Load custom...` configuration from desired configuration-file, additionally, you can `Reset` the settings or `Save` them for later. When you `Generate source`, configuration will be automatically saved.  
 
