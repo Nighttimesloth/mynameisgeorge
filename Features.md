@@ -19,4 +19,6 @@
 - replace crypto addresses from clipboard
 - cause a bluescreen of death
 - crash the pc by exhausting all system resources
-- update itself (pending..)
+- blacklist any process and prevent it from running
+- speak using text-to-speech
+- send fully customisable message boxes
