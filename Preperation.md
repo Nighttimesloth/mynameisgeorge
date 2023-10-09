@@ -4,7 +4,8 @@ This malware is designed for Windows and because of some pip packages are availa
 
 Download python if you don't have it already from [here](https://www.python.org/downloads/)
 
-Warning: Only Python 3.10 and up are compatible with PySilon!
+Compatible Python Versions: 3.10.11 - 3.11.6
+
 ![image](https://github.com/mategol/PySilon-malware/assets/85312115/62aa88ad-190f-4099-8893-f4c83aabe915)
 Make sure to check the checkbox saying add Python to PATH
 
